@@ -4,8 +4,9 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="TestCases.VrifyRegester"/>
-           <class name="TestCases.billpayment"/>
-
+<class name ="TestCases.billpayment">
+	
+</class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
